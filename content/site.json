@@ -1,0 +1,56 @@
+{
+  "brand": {
+    "name": "Alex Rivera",
+    "tagline": "Designing bold digital experiences, line by line.",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "work",
+      "href": "/work"
+    },
+    {
+      "key": "about",
+      "href": "/about"
+    },
+    {
+      "key": "contact",
+      "href": "/contact"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "/contact"
+  },
+  "footerColumns": [
+    {
+      "key": "sitemap",
+      "links": [
+        { "key": "work", "href": "/work" },
+        { "key": "about", "href": "/about" },
+        { "key": "contact", "href": "/contact" }
+      ]
+    },
+    {
+      "key": "connect",
+      "links": [
+        { "key": "email", "href": "mailto:hello@alexrivera.design" },
+        { "key": "resume", "href": "/about" }
+      ]
+    }
+  ],
+  "socialLinks": [
+    { "platform": "github", "href": "https://github.com/alexrivera" },
+    { "platform": "linkedin", "href": "https://linkedin.com/in/alexrivera" },
+    { "platform": "twitter", "href": "https://twitter.com/alexrivera" }
+  ],
+  "motion": {
+    "intensity": 6
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}

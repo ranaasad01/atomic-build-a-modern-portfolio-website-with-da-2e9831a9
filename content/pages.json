@@ -1,0 +1,30 @@
+{
+  "home": {
+    "variant": "c",
+    "images": {
+      "hero": "https://cdn.stocksnap.io/img-thumbs/960w/WWF2RUV4E7.jpg"
+    }
+  },
+  "work": {
+    "variant": "c",
+    "images": {
+      "projects.0": "https://live.staticflickr.com/65535/53171825635_68bf4fe25c_b.jpg",
+      "projects.1": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/13f13857442f4e349767de64d64007fe.jpg",
+      "projects.2": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d5c246f8c1e04bbbaf2b9c00a5c017e4.jpg",
+      "projects.3": "https://cdn.stocksnap.io/img-thumbs/960w/F23CC614B0.jpg",
+      "projects.4": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/49778320ab69405ab025cb88afb60dec.jpg",
+      "projects.5": "https://live.staticflickr.com/65535/52073744624_129bdf1337_b.jpg",
+      "projects.6": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/c538e9286d3f42219d1728337486e6fd.jpg",
+      "projects.7": "https://cdn.stocksnap.io/img-thumbs/960w/D6I619GI0B.jpg"
+    }
+  },
+  "about": {
+    "variant": "c",
+    "images": {
+      "hero": "https://cdn.stocksnap.io/img-thumbs/960w/LR22HMETWM.jpg"
+    }
+  },
+  "contact": {
+    "variant": "a"
+  }
+}

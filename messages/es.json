@@ -1,0 +1,268 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "work": "Trabajo",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "primary": "Hablemos"
+  },
+  "footer": {
+    "tagline": "Diseñando experiencias digitales audaces, línea por línea.",
+    "rights": "Todos los derechos reservados.",
+    "columns": {
+      "sitemap": "Mapa del sitio",
+      "connect": "Conectar"
+    },
+    "links": {
+      "work": "Trabajo",
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "email": "Correo electrónico",
+      "resume": "CV"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Diseñador / Desarrollador",
+      "title": "Creo Trabajo Digital Audaz e Implacable",
+      "subtitle": "Un estudio creativo multidisciplinario de una sola persona que crea interfaces audaces y experiencias de marca brutalmente honestas para clientes que se niegan a pasar desapercibidos.",
+      "cta": "Ver Trabajo",
+      "secondaryCta": "Ponte en Contacto"
+    },
+    "featured": {
+      "eyebrow": "Trabajo Seleccionado",
+      "title": "Proyectos Construidos para Romper la Cuadrícula",
+      "subtitle": "Una colección de productos, marcas y experimentos hechos con bordes afilados y cero compromisos.",
+      "cta": "Ver Todos los Proyectos"
+    },
+    "services": {
+      "eyebrow": "Qué Hago",
+      "title": "Habilidades, Simplificadas",
+      "subtitle": "Sin relleno, solo las herramientas y disciplinas que uso para entregar trabajo que impacta.",
+      "items": {
+        "0": {
+          "title": "Identidad de Marca",
+          "description": "Sistemas visuales crudos y memorables que se niegan a desaparecer en el ruido."
+        },
+        "1": {
+          "title": "Desarrollo Web",
+          "description": "Construcciones rápidas, accesibles y pixel-perfectas en React, Next.js y CSS moderno."
+        },
+        "2": {
+          "title": "Diseño UI/UX",
+          "description": "Interfaces diseñadas para la claridad primero, la decoración segundo."
+        },
+        "3": {
+          "title": "Movimiento e Interacción",
+          "description": "Animación con propósito que añade peso sin ralentizar nada."
+        },
+        "4": {
+          "title": "Sistemas de Diseño",
+          "description": "Librerías de componentes escalables construidas para equipos que se mueven rápido."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Palabras de Clientes",
+      "title": "Ellos Lo Dijeron, No Yo",
+      "subtitle": "Retroalimentación honesta de personas que contrataron el trabajo y vivieron con los resultados.",
+      "items": {
+        "0": {
+          "quote": "Audaz es la única palabra para describirlo. El sitio se ve como nada más que existe, y convierte.",
+          "name": "Priya Nair",
+          "role": "Fundadora, Studio Loom"
+        },
+        "1": {
+          "quote": "Entregó un sistema de marca que realmente tiene estructura. Cada punto de contacto se siente intencional.",
+          "name": "Marcus Webb",
+          "role": "CMO, Fieldstone"
+        },
+        "2": {
+          "quote": "Rápido, directo, sin necesidad de orientación. Exactamente el tipo de colaborador que queríamos.",
+          "name": "Elena Garza",
+          "role": "Product Lead, Northbound"
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Tienes un Proyecto que Necesita Filo?",
+      "subtitle": "Hablemos sobre lo que estás construyendo y si necesita algo de honestidad brutal.",
+      "button": "Iniciar una Conversación"
+    }
+  },
+  "work": {
+    "hero": {
+      "eyebrow": "Trabajos Seleccionados",
+      "title": "Proyectos que Rompen la Cuadrícula",
+      "subtitle": "Una colección de productos digitales, marcas y experimentos construidos con obsesión artesanal y sin compromisos."
+    },
+    "archive": {
+      "title": "Archivo Completo de Proyectos",
+      "subtitle": "Cada construcción, experimento y colaboración, presentados lado a lado."
+    },
+    "spotlight": {
+      "eyebrow": "Caso de Estudio Destacado"
+    },
+    "projects": {
+      "0": {
+        "title": "Voltage Bank",
+        "category": "Diseño de Producto / Fintech",
+        "description": "Un rediseño brutalista de una app de neobanco, eliminando desorden para poner datos financieros crudos al frente para usuarios avanzados."
+      },
+      "1": {
+        "title": "Kinetic Studio",
+        "category": "Desarrollo Web",
+        "description": "Un sitio de agencia construido con movimiento activado por scroll y tipografía oversized, llevando transiciones WebGL al límite del navegador."
+      },
+      "2": {
+        "title": "Noir Market",
+        "category": "E-Commerce / Branding",
+        "description": "Sistema completo de marca y tienda para una marca de streetwear, construido alrededor de contraste stark y tipografía sin disculpas."
+      },
+      "3": {
+        "title": "Frame/Work",
+        "category": "Sistema de Diseño",
+        "description": "Una librería de componentes y sistema de diseño entregado a seis equipos de producto, reduciendo tiempo de construcción en 40% en toda la organización."
+      },
+      "4": {
+        "title": "Static//Noise",
+        "category": "Creative Coding",
+        "description": "Experimentos visuales generativos usando canvas y código shader, exhibidos en un festival de arte digital."
+      },
+      "5": {
+        "title": "Haus Collective",
+        "category": "Branding / Identidad",
+        "description": "Identidad visual para un estudio de arquitectura, traduciendo concreto y acero en un sistema de marca monocromático audaz."
+      },
+      "6": {
+        "title": "Pulse Dashboard",
+        "category": "Diseño de Producto / SaaS",
+        "description": "Un dashboard de análisis rediseñado para claridad bajo presión, usado diariamente por equipos de ops monitoreando infraestructura en vivo."
+      },
+      "7": {
+        "title": "Rawtype Zine",
+        "category": "Diseño Editorial",
+        "description": "Una revista digital autopublicada que explora sistemas tipográficos brutalistas, construida completamente con CSS grid y fuentes variables."
+      }
+    },
+    "cta": {
+      "title": "¿Tienes un Proyecto en Mente?",
+      "subtitle": "Asumo un número limitado de colaboraciones cada trimestre. Veamos si la tuya encaja.",
+      "button": "Iniciar un Proyecto"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Sobre Mí",
+      "title": "Construyo Cosas que No Pasan Desapercibidas",
+      "subtitle": "Diseñador y desarrollador obsesionado con interfaces audaces, materiales honestos y trabajo que resiste el escrutinio."
+    },
+    "story": {
+      "title": "La Versión Corta",
+      "paragraphs": {
+        "0": "Comencé desarmando temas solo para ver cómo funcionaban, y nunca realmente paré. Una década después, esa misma curiosidad impulsa cada proyecto que toco — desglósalo, reconstruyelo mejor, hazlo imposible de ignorar.",
+        "1": "Mi trabajo vive en la intersección entre estructura cruda y detalle refinado: bordes gruesos, tipografía sin disculpas, e interfaces que se sienten como si fueron construidas a propósito, no ensambladas de una plantilla.",
+        "2": "Estos días divido mi tiempo entre trabajo con clientes, proyectos personales y escritura sobre el oficio. Si es audaz, funcional y un poco terco, probablemente lo hice yo."
+      }
+    },
+    "values": {
+      "eyebrow": "Cómo Trabajo",
+      "title": "Principios, No Tendencias",
+      "subtitle": "Algunos no-negociables que moldean todo lo que lanzo.",
+      "items": {
+        "0": {
+          "title": "Claridad Sobre Decoración",
+          "description": "Cada elemento se gana su lugar. Si no sirve al usuario o al mensaje, se elimina."
+        },
+        "1": {
+          "title": "La Función Es la Forma",
+          "description": "La estética audaz no significa nada si la cosa no funciona impecablemente en cada dispositivo."
+        },
+        "2": {
+          "title": "Ciclos de Retroalimentación Rápidos",
+          "description": "Lanzo temprano, pruebo a menudo e itero en público en lugar de pulir en aislamiento."
+        },
+        "3": {
+          "title": "Domina los Detalles",
+          "description": "Espaciado, contraste, tiempos de carga, redacción — lo pequeño es el trabajo completo."
+        },
+        "4": {
+          "title": "Comunicación Honesta",
+          "description": "Cronogramas claros, alcance claro, sin sorpresas. La confianza se construye en los detalles de un proyecto, no solo en el resultado."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "8+",
+        "label": "Años Construyendo"
+      },
+      "1": {
+        "value": "60+",
+        "label": "Proyectos Lanzados"
+      },
+      "2": {
+        "value": "20",
+        "label": "Industrias con las que Trabajé"
+      },
+      "3": {
+        "value": "4.9/5",
+        "label": "Calificación de Clientes"
+      }
+    },
+    "connect": {
+      "title": "Mantengámonos en Contacto",
+      "subtitle": "Descarga mi CV o encuéntrame en las plataformas de abajo. Respondo rápido.",
+      "resumeCta": "Solicitar Mi CV",
+      "resumeHint": "CV disponible bajo solicitud — comunícate a través de la página de contacto y te lo enviaré directamente."
+    },
+    "cta": {
+      "title": "¿Te Gusta lo que Ves?",
+      "subtitle": "Descarga mi CV o echa un vistazo al trabajo que respalda todo esto.",
+      "button": "Descargar CV"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Ponte en Contacto",
+      "title": "CONSTRUYAMOS ALGO IMPACTANTE",
+      "subtitle": "¿Tienes un proyecto, una oferta de trabajo o solo quieres conversar? Escribe un mensaje abajo."
+    },
+    "form": {
+      "nameLabel": "TU NOMBRE",
+      "emailLabel": "TU EMAIL",
+      "messageLabel": "QUÉ TIENES EN MENTE",
+      "submitLabel": "ENVIAR →",
+      "successMessage": "Mensaje recibido. Te responderé dentro de 48 horas.",
+      "details": {
+        "0": {
+          "label": "Email",
+          "value": "hello@alexrivera.design"
+        },
+        "1": {
+          "label": "Teléfono",
+          "value": "+1 (512) 404-7781"
+        },
+        "2": {
+          "label": "Estudio",
+          "value": "Austin, Texas — disponible remoto en todo el mundo"
+        },
+        "3": {
+          "label": "Horario",
+          "value": "Lun–Vie, 9am–6pm CST"
+        }
+      }
+    },
+    "social": {
+      "title": "Encuéntrame en Otros Lugares",
+      "subtitle": "¿Prefieres redes sociales? También estoy activo en estas plataformas."
+    },
+    "cta": {
+      "title": "¿Prefieres Ver el Trabajo Primero?",
+      "subtitle": "Explora casos de estudio completos mientras esperas mi respuesta.",
+      "button": "Ver Proyectos"
+    }
+  }
+}

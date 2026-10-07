@@ -1,0 +1,268 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cta": {
+    "primary": "Let's Talk"
+  },
+  "footer": {
+    "tagline": "Designing bold digital experiences, line by line.",
+    "rights": "All rights reserved.",
+    "columns": {
+      "sitemap": "Sitemap",
+      "connect": "Connect"
+    },
+    "links": {
+      "work": "Work",
+      "about": "About",
+      "contact": "Contact",
+      "email": "Email",
+      "resume": "Resume"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Designer / Developer",
+      "title": "I Build Loud, Unapologetic Digital Work",
+      "subtitle": "A multidisciplinary creative studio-of-one crafting bold interfaces and brutally honest brand experiences for clients who refuse to blend in.",
+      "cta": "View Work",
+      "secondaryCta": "Get In Touch"
+    },
+    "featured": {
+      "eyebrow": "Selected Work",
+      "title": "Projects Built To Break The Grid",
+      "subtitle": "A collection of products, brands, and experiments made with sharp edges and zero compromise.",
+      "cta": "See All Projects"
+    },
+    "services": {
+      "eyebrow": "What I Do",
+      "title": "Skills, Stripped Down",
+      "subtitle": "No fluff, just the tools and disciplines I use to ship work that hits hard.",
+      "items": {
+        "0": {
+          "title": "Brand Identity",
+          "description": "Raw, memorable visual systems that refuse to disappear into the noise."
+        },
+        "1": {
+          "title": "Web Development",
+          "description": "Fast, accessible, pixel-exact builds in React, Next.js, and modern CSS."
+        },
+        "2": {
+          "title": "UI/UX Design",
+          "description": "Interfaces engineered for clarity first, decoration second."
+        },
+        "3": {
+          "title": "Motion & Interaction",
+          "description": "Purposeful animation that adds weight without slowing anything down."
+        },
+        "4": {
+          "title": "Design Systems",
+          "description": "Scalable component libraries built for teams that move fast."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Client Word",
+      "title": "They Said It, Not Me",
+      "subtitle": "Honest feedback from people who hired the work and lived with the results.",
+      "items": {
+        "0": {
+          "quote": "Fearless is the only word for it. The site looks like nothing else out there, and it converts.",
+          "name": "Priya Nair",
+          "role": "Founder, Studio Loom"
+        },
+        "1": {
+          "quote": "Delivered a brand system that actually has a spine. Every touchpoint feels intentional.",
+          "name": "Marcus Webb",
+          "role": "CMO, Fieldstone"
+        },
+        "2": {
+          "quote": "Fast, direct, zero hand-holding needed. Exactly the kind of collaborator we wanted.",
+          "name": "Elena Garza",
+          "role": "Product Lead, Northbound"
+        }
+      }
+    },
+    "cta": {
+      "title": "Got A Project That Needs An Edge?",
+      "subtitle": "Let's talk about what you're building and whether it needs some brutal honesty.",
+      "button": "Start A Conversation"
+    }
+  },
+  "work": {
+    "hero": {
+      "eyebrow": "Selected Work",
+      "title": "Projects That Break The Grid",
+      "subtitle": "A collection of digital products, brands, and experiments built with obsessive craft and zero compromise."
+    },
+    "archive": {
+      "title": "Full Project Archive",
+      "subtitle": "Every build, experiment, and collaboration, laid out side by side."
+    },
+    "spotlight": {
+      "eyebrow": "Case Study Spotlight"
+    },
+    "projects": {
+      "0": {
+        "title": "Voltage Bank",
+        "category": "Product Design / Fintech",
+        "description": "A brutalist redesign of a neobank app, stripping away clutter to put raw financial data front and center for power users."
+      },
+      "1": {
+        "title": "Kinetic Studio",
+        "category": "Web Development",
+        "description": "An agency site built on scroll-triggered motion and oversized type, pushing WebGL transitions to the edge of browser limits."
+      },
+      "2": {
+        "title": "Noir Market",
+        "category": "E-Commerce / Branding",
+        "description": "Full brand and storefront system for a streetwear label, built around stark contrast and unapologetic typography."
+      },
+      "3": {
+        "title": "Frame/Work",
+        "category": "Design System",
+        "description": "A component library and design system shipped to six product teams, cutting build time by 40% across the org."
+      },
+      "4": {
+        "title": "Static//Noise",
+        "category": "Creative Coding",
+        "description": "Generative visual experiments using canvas and shader code, exhibited at a digital art festival."
+      },
+      "5": {
+        "title": "Haus Collective",
+        "category": "Branding / Identity",
+        "description": "Visual identity for an architecture studio, translating concrete and steel into a bold monochrome brand system."
+      },
+      "6": {
+        "title": "Pulse Dashboard",
+        "category": "Product Design / SaaS",
+        "description": "An analytics dashboard redesigned for clarity under pressure, used daily by ops teams monitoring live infrastructure."
+      },
+      "7": {
+        "title": "Rawtype Zine",
+        "category": "Editorial Design",
+        "description": "A self-published digital zine exploring brutalist type systems, built entirely with CSS grid and variable fonts."
+      }
+    },
+    "cta": {
+      "title": "Got A Project In Mind?",
+      "subtitle": "I take on a limited number of collaborations each quarter. Let's see if yours fits.",
+      "button": "Start A Project"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About Me",
+      "title": "I Build Things That Don't Blend In",
+      "subtitle": "Designer and developer obsessed with bold interfaces, honest materials, and work that holds up under scrutiny."
+    },
+    "story": {
+      "title": "The Short Version",
+      "paragraphs": {
+        "0": "I started out breaking themes apart just to see how they worked, and never really stopped. A decade later that same curiosity drives every project I touch — strip it down, rebuild it better, make it impossible to ignore.",
+        "1": "My work lives at the intersection of raw structure and refined detail: thick borders, unapologetic type, and interfaces that feel like they were built on purpose, not assembled from a template.",
+        "2": "These days I split my time between client work, side projects, and writing about the craft. If it's bold, functional, and a little stubborn, I probably made it."
+      }
+    },
+    "values": {
+      "eyebrow": "How I Work",
+      "title": "Principles, Not Trends",
+      "subtitle": "A few non-negotiables that shape everything I ship.",
+      "items": {
+        "0": {
+          "title": "Clarity Over Decoration",
+          "description": "Every element earns its place. If it doesn't serve the user or the message, it gets cut."
+        },
+        "1": {
+          "title": "Function Is the Form",
+          "description": "Bold aesthetics mean nothing if the thing doesn't work flawlessly on every device."
+        },
+        "2": {
+          "title": "Fast Feedback Loops",
+          "description": "I ship early, test often, and iterate in public rather than polishing in isolation."
+        },
+        "3": {
+          "title": "Own the Details",
+          "description": "Spacing, contrast, load times, copy — the small stuff is the whole job."
+        },
+        "4": {
+          "title": "Honest Communication",
+          "description": "Clear timelines, clear scope, no surprises. Trust is built in the details of a project, not just the output."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "8+",
+        "label": "Years Building"
+      },
+      "1": {
+        "value": "60+",
+        "label": "Projects Shipped"
+      },
+      "2": {
+        "value": "20",
+        "label": "Industries Worked With"
+      },
+      "3": {
+        "value": "4.9/5",
+        "label": "Client Rating"
+      }
+    },
+    "connect": {
+      "title": "Let's Stay In Touch",
+      "subtitle": "Grab my resume or find me on the platforms below. I'm quick to respond.",
+      "resumeCta": "Request My Resume",
+      "resumeHint": "Resume available on request — reach out via the contact page and I'll send it straight over."
+    },
+    "cta": {
+      "title": "Like What You See?",
+      "subtitle": "Grab my resume or take a look at the work that backs all this up.",
+      "button": "Download Resume"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get In Touch",
+      "title": "LET'S BUILD SOMETHING LOUD",
+      "subtitle": "Got a project, a job offer, or just want to talk shop? Drop a line below."
+    },
+    "form": {
+      "nameLabel": "YOUR NAME",
+      "emailLabel": "YOUR EMAIL",
+      "messageLabel": "WHAT'S ON YOUR MIND",
+      "submitLabel": "SEND IT →",
+      "successMessage": "Message received. I'll get back to you within 48 hours.",
+      "details": {
+        "0": {
+          "label": "Email",
+          "value": "hello@alexrivera.design"
+        },
+        "1": {
+          "label": "Phone",
+          "value": "+1 (512) 404-7781"
+        },
+        "2": {
+          "label": "Studio",
+          "value": "Austin, Texas — available remote worldwide"
+        },
+        "3": {
+          "label": "Hours",
+          "value": "Mon–Fri, 9am–6pm CST"
+        }
+      }
+    },
+    "social": {
+      "title": "Find Me Elsewhere",
+      "subtitle": "Prefer social? I'm active on these platforms too."
+    },
+    "cta": {
+      "title": "Prefer To See The Work First?",
+      "subtitle": "Browse full case studies while you wait on a reply.",
+      "button": "View Projects"
+    }
+  }
+}
